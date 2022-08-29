@@ -1,0 +1,6 @@
+projectKey=server_check_.Net
+serverUrl=http://20.212.201.113:9000
+serverVersion=9.4.0.54424
+dashboardUrl=http://20.212.201.113:9000/dashboard?id=server_check_.Net
+ceTaskId=AYAjFepOt3RWbvENcN-q
+ceTaskUrl=http://20.212.201.113:9000/api/ce/task?id=AYAjFepOt3RWbvENcN-q

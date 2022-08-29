@@ -1,0 +1,6 @@
+﻿C:\Users\selvaak\source\repos\.NET-NewYaksha-UseCase\E-Loan.DataLayer\Migrations\20210707095807_initial.cs
+C:\Users\selvaak\source\repos\.NET-NewYaksha-UseCase\E-Loan.DataLayer\Migrations\20210707095807_initial.Designer.cs
+C:\Users\selvaak\source\repos\.NET-NewYaksha-UseCase\E-Loan.DataLayer\Migrations\20210708101742_updateUserMaster.cs
+C:\Users\selvaak\source\repos\.NET-NewYaksha-UseCase\E-Loan.DataLayer\Migrations\20210708101742_updateUserMaster.Designer.cs
+C:\Users\selvaak\source\repos\.NET-NewYaksha-UseCase\E-Loan.DataLayer\Migrations\UserMasterDbContextModelSnapshot.cs
+C:\Users\selvaak\source\repos\.NET-NewYaksha-UseCase\E-Loan.DataLayer\UserMasterDbContext.cs

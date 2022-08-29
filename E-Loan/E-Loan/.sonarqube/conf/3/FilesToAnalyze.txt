@@ -1,0 +1,13 @@
+﻿C:\Users\selvaak\source\repos\.NET-NewYaksha-UseCase\E-Loan\Controllers\AdminController.cs
+C:\Users\selvaak\source\repos\.NET-NewYaksha-UseCase\E-Loan\Controllers\ClerkController.cs
+C:\Users\selvaak\source\repos\.NET-NewYaksha-UseCase\E-Loan\Controllers\CustomerController.cs
+C:\Users\selvaak\source\repos\.NET-NewYaksha-UseCase\E-Loan\Controllers\ManagerController.cs
+C:\Users\selvaak\source\repos\.NET-NewYaksha-UseCase\E-Loan\Controllers\WeatherForecastController.cs
+C:\Users\selvaak\source\repos\.NET-NewYaksha-UseCase\E-Loan\Program.cs
+C:\Users\selvaak\source\repos\.NET-NewYaksha-UseCase\E-Loan\Startup.cs
+C:\Users\selvaak\source\repos\.NET-NewYaksha-UseCase\E-Loan\WeatherForecast.cs
+C:\Users\selvaak\source\repos\.NET-NewYaksha-UseCase\E-Loan\obj\Debug\netcoreapp3.1\.NETCoreApp,Version=v3.1.AssemblyAttributes.cs
+C:\Users\selvaak\source\repos\.NET-NewYaksha-UseCase\E-Loan\obj\Debug\netcoreapp3.1\E-Loan.AssemblyInfo.cs
+C:\Users\selvaak\source\repos\.NET-NewYaksha-UseCase\E-Loan\appsettings.Development.json
+C:\Users\selvaak\source\repos\.NET-NewYaksha-UseCase\E-Loan\appsettings.json
+C:\Users\selvaak\source\repos\.NET-NewYaksha-UseCase\E-Loan\Properties\launchSettings.json

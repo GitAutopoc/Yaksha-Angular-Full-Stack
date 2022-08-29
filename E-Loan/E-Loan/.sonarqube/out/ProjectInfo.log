@@ -1,0 +1,28 @@
+Product projects
+---------------------------------------
+C:\Users\selvaak\source\repos\.NET-NewYaksha-UseCase\E-Loan.Entities\E-Loan.Entities.csproj
+C:\Users\selvaak\source\repos\.NET-NewYaksha-UseCase\E-Loan.DataLayer\E-Loan.DataLayer.csproj
+C:\Users\selvaak\source\repos\.NET-NewYaksha-UseCase\E-Loan.BusinessLayer\E-Loan.BusinessLayer.csproj
+C:\Users\selvaak\source\repos\.NET-NewYaksha-UseCase\E-Loan\E-Loan.csproj
+
+
+Test projects
+---------------------------------------
+C:\Users\selvaak\source\repos\.NET-NewYaksha-UseCase\E-Loan.Tests\E-Loan.Tests.csproj
+
+
+Invalid projects
+---------------------------------------
+{none}
+
+
+Skipped projects
+---------------------------------------
+{none}
+
+
+Excluded projects
+---------------------------------------
+{none}
+
+

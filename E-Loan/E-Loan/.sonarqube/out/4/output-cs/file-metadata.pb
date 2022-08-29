@@ -1,0 +1,11 @@
+d
+[C:\Users\selvaak\source\repos\.NET-NewYaksha-UseCase\E-Loan.Tests\TestCases\BoundaryTest.csutf-8_
+VC:\Users\selvaak\source\repos\.NET-NewYaksha-UseCase\E-Loan.Tests\TestCases\CallAPI.csutf-8g
+^C:\Users\selvaak\source\repos\.NET-NewYaksha-UseCase\E-Loan.Tests\TestCases\ExceptionalTest.csutf-8g
+^C:\Users\selvaak\source\repos\.NET-NewYaksha-UseCase\E-Loan.Tests\TestCases\FunctionalTests.csutf-8`
+WC:\Users\selvaak\source\repos\.NET-NewYaksha-UseCase\E-Loan.Tests\TestCases\GetToken.csutf-8c
+ZC:\Users\selvaak\source\repos\.NET-NewYaksha-UseCase\E-Loan.Tests\TestCases\TestCaseDto.csutf-8`
+WC:\Users\selvaak\source\repos\.NET-NewYaksha-UseCase\E-Loan.Tests\TestCases\TestData.csutf-8
+tC:\Users\selvaak\.nuget\packages\microsoft.net.test.sdk\16.5.0\build\netcoreapp2.1\Microsoft.NET.Test.Sdk.Program.csutf-8î
+àC:\Users\selvaak\source\repos\.NET-NewYaksha-UseCase\E-Loan.Tests\obj\Debug\netcoreapp3.1\.NETCoreApp,Version=v3.1.AssemblyAttributes.csutf-8Å
+vC:\Users\selvaak\source\repos\.NET-NewYaksha-UseCase\E-Loan.Tests\obj\Debug\netcoreapp3.1\E-Loan.Tests.AssemblyInfo.csutf-8

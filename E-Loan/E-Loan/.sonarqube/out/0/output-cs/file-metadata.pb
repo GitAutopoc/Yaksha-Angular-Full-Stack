@@ -1,0 +1,13 @@
+^
+UC:\Users\selvaak\source\repos\.NET-NewYaksha-UseCase\E-Loan.Entities\BillingStatus.csutf-8_
+VC:\Users\selvaak\source\repos\.NET-NewYaksha-UseCase\E-Loan.Entities\BusinessStatus.csutf-8\
+SC:\Users\selvaak\source\repos\.NET-NewYaksha-UseCase\E-Loan.Entities\IdProofType.csutf-8b
+YC:\Users\selvaak\source\repos\.NET-NewYaksha-UseCase\E-Loan.Entities\LoanApprovaltrans.csutf-8[
+RC:\Users\selvaak\source\repos\.NET-NewYaksha-UseCase\E-Loan.Entities\LoanMaster.csutf-8a
+XC:\Users\selvaak\source\repos\.NET-NewYaksha-UseCase\E-Loan.Entities\LoanProcesstrans.csutf-8[
+RC:\Users\selvaak\source\repos\.NET-NewYaksha-UseCase\E-Loan.Entities\LoanStatus.csutf-8Y
+PC:\Users\selvaak\source\repos\.NET-NewYaksha-UseCase\E-Loan.Entities\Response.csutf-8Z
+QC:\Users\selvaak\source\repos\.NET-NewYaksha-UseCase\E-Loan.Entities\TaxStatus.csutf-8[
+RC:\Users\selvaak\source\repos\.NET-NewYaksha-UseCase\E-Loan.Entities\UserMaster.csutf-8—
+‹C:\Users\selvaak\source\repos\.NET-NewYaksha-UseCase\E-Loan.Entities\obj\Debug\netcoreapp3.1\.NETCoreApp,Version=v3.1.AssemblyAttributes.csutf-8‡
+|C:\Users\selvaak\source\repos\.NET-NewYaksha-UseCase\E-Loan.Entities\obj\Debug\netcoreapp3.1\E-Loan.Entities.AssemblyInfo.csutf-8

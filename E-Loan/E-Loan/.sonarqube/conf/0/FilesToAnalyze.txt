@@ -1,0 +1,10 @@
+﻿C:\Users\selvaak\source\repos\.NET-NewYaksha-UseCase\E-Loan.Entities\BillingStatus.cs
+C:\Users\selvaak\source\repos\.NET-NewYaksha-UseCase\E-Loan.Entities\BusinessStatus.cs
+C:\Users\selvaak\source\repos\.NET-NewYaksha-UseCase\E-Loan.Entities\IdProofType.cs
+C:\Users\selvaak\source\repos\.NET-NewYaksha-UseCase\E-Loan.Entities\LoanApprovaltrans.cs
+C:\Users\selvaak\source\repos\.NET-NewYaksha-UseCase\E-Loan.Entities\LoanMaster.cs
+C:\Users\selvaak\source\repos\.NET-NewYaksha-UseCase\E-Loan.Entities\LoanProcesstrans.cs
+C:\Users\selvaak\source\repos\.NET-NewYaksha-UseCase\E-Loan.Entities\LoanStatus.cs
+C:\Users\selvaak\source\repos\.NET-NewYaksha-UseCase\E-Loan.Entities\Response.cs
+C:\Users\selvaak\source\repos\.NET-NewYaksha-UseCase\E-Loan.Entities\TaxStatus.cs
+C:\Users\selvaak\source\repos\.NET-NewYaksha-UseCase\E-Loan.Entities\UserMaster.cs
